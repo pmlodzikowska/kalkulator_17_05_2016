@@ -1,5 +1,13 @@
 def get_info():
 	print("To jest prosty kalkulator")
+
+def dodawanie(a, b):
+	return(a+b)
+def odejmowanie(e, f):
+	return(e-f)
+
+	
+
 get_info()
 
 a = int(input())
